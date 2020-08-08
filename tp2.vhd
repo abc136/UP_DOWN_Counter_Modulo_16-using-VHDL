@@ -4,8 +4,8 @@
 -- 
 -- Create Date:    15:54:00 04/25/2012 
 -- Design Name: 
--- Module Name:    tp2 - Behavioral 
--- Project Name:    FELLAGUE DJABIR
+-- Module Name:    
+-- Project Name:    
 -- Target Devices: 
 -- Tool versions: 
 -- Description: COMPTEUR/DECOMPTEUR SUR 4 BITS AVEC (CLOCK ENABLE) (RESET) (LOAD)(DATA-IN)(DATA-OUT)(DIRECTION)(CLOCK)()
